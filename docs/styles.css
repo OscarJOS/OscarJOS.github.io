@@ -14,7 +14,7 @@ p {
   line-height: 1.5;
 }
 
-button {
+a {
   background-color: #DB3030;
   padding: 12px 30px;
   border-color: #DB3030;
@@ -23,6 +23,7 @@ button {
   font-size: 17px;
   line-height: 1;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .container {
@@ -31,5 +32,5 @@ button {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 25px;
   margin: left;
-	max-width: 90%;
+  max-width: 90%;
 }
